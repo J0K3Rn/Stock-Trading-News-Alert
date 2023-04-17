@@ -11,9 +11,9 @@ Features:
 
 How to run:
 - Download repository
-- Create an account on ![Twilio](https://www.twilio.com/), get your api key, account sid, phone numbers, and update `main.py`
-- Create an account on ![Alpha Vantage](https://www.alphavantage.co/), get your api key and update `main.py`
-- Create an account on ![News API](https://newsapi.org/), get your api key and update `main.py`
+- Create an account on [Twilio](https://www.twilio.com/), get your api key, account sid, phone numbers, and update `main.py`
+- Create an account on [Alpha Vantage](https://www.alphavantage.co/), get your api key and update `main.py`
+- Create an account on [News API](https://newsapi.org/), get your api key and update `main.py`
 - Open downloaded repository with a command line interface
 - run `pip install twilio`
 - run `python main.py`
