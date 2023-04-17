@@ -1,6 +1,6 @@
 # Stock-Trading-News-Alert
  
-A stock following program that sends a SMS alert and relevant news
+A stock tracking program that sends a SMS alert with relevant news
 
 Features:
 - Follows a stock and calculates the change in that stock
